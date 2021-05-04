@@ -17,5 +17,6 @@
   },
   "peacock.color": "#1857a4",
   "editor.formatOnSave": true,
-  
+  "editor.fontSize": 15,
+  "editor.lineHeight": 22
 }
